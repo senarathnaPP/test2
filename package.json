@@ -1,0 +1,25 @@
+{
+  "name": "lab_project_shoppingcart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "http-status": "^1.5.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cors": "^0.0.16",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^10.1.1",
+    "nodemon": "^2.0.16",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "uuid": "^8.3.2"
+  }
+}
