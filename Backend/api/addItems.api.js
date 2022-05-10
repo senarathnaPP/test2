@@ -1,3 +1,4 @@
+//Backend api
 import {randomBytes} from 'crypto';
 
 const posts = new Map();
